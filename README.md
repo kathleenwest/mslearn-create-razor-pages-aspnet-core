@@ -2,6 +2,10 @@
 
 Welcome! This is the starter app for the [Create a web UI with ASP.NET Core](https://learn.microsoft.com/training/modules/create-razor-pages-aspnet-core/) Microsoft Training module.
 
+## Developer Notes
+
+dotnet watch run --project ContosoPizza
+
 ## Completed version
 
 The completed version of this module is available on the `solution` branch of this repo.
