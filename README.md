@@ -1,8 +1,12 @@
-# Starter app for Create a web UI with ASP.NET Core
+# Create a web UI with ASP.NET Core
 
-Welcome! This is the starter app for the [Create a web UI with ASP.NET Core](https://learn.microsoft.com/training/modules/create-razor-pages-aspnet-core/) Microsoft Training module.
+This is my complete solution and project for the Microsoft Learn [Create a web UI with ASP.NET Core](https://learn.microsoft.com/training/modules/create-razor-pages-aspnet-core/) Microsoft Training module.
 
-## Developer Notes
+## Prerequisites and Dependencies
+
+TBA
+
+## How to Run Locally
 
 dotnet watch run --project ContosoPizza
 
