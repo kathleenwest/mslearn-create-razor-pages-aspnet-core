@@ -1,0 +1,31 @@
+English US - AI - Andrew
+
+Contoso Pizza Web UI
+
+About the Project
+
+This is a completed tutorial project from the Microsoft Learn course "Create a web UI with ASP.NET Core"
+
+Running the project locally
+
+use dotnet watch run with the project parameter to build, start, and run the project locally
+
+The web application now opens with a custom welcome page. The boilerplate templates are available, but let's direct attention to the Pizza List page. 
+
+Creating a Pizza
+
+Enter the pizza name, select the size, and enter a price. 
+
+Notice the page is refreshed with the newly added pizza. 
+
+Deleting a pizza
+
+Click the Delete button and notice the pizza is now deleted from the list.
+
+Form Validation
+
+The name and price form fields are required. 
+Users are required to enter the price within a preset range. 
+Embedded SQL Database
+To make things simple, this project uses an embedded SQL database.
+SQL Light is a Visual Studio extension that can be used to view and edit the embedded database. This extension can currently be downloaded and installed for free from the Visual Studio marketplace.

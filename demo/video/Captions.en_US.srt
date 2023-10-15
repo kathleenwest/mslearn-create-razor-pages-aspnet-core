@@ -1,0 +1,76 @@
+﻿1
+00:00:01,833 --> 00:00:03,799
+Contoso Pizza Web UI
+
+2
+00:00:05,866 --> 00:00:07,132
+About the Project
+
+3
+00:00:08,833 --> 00:00:15,599
+This is a completed tutorial project from the Microsoft Learn course "Create a web UI with ASP.NET Core"
+
+4
+00:00:16,966 --> 00:00:18,799
+Running the project locally
+
+5
+00:00:19,833 --> 00:00:25,266
+use dotnet watch run with the project parameter to build, start, and run the project locally
+
+6
+00:00:27,233 --> 00:00:31,066
+The web application now opens with a custom welcome page. 
+
+7
+00:00:31,066 --> 00:00:36,999
+The boilerplate templates are available, but let's direct attention to the Pizza List page. 
+
+8
+00:00:39,233 --> 00:00:40,899
+Creating a Pizza
+
+9
+00:00:42,100 --> 00:00:46,400
+Enter the pizza name, select the size, and enter a price. 
+
+10
+00:00:47,333 --> 00:00:51,333
+Notice the page is refreshed with the newly added pizza. 
+
+11
+00:00:52,933 --> 00:00:55,033
+Deleting a pizza
+
+12
+00:00:55,466 --> 00:01:00,266
+Click the Delete button and notice the pizza is now deleted from the list.
+
+13
+00:01:01,866 --> 00:01:04,099
+Form Validation
+
+14
+00:01:05,633 --> 00:01:08,533
+The name and price form fields are required. 
+
+15
+00:01:10,600 --> 00:01:15,166
+Users are required to enter the price within a preset range. 
+
+16
+00:01:16,533 --> 00:01:18,399
+Embedded SQL Database
+
+17
+00:01:19,033 --> 00:01:23,033
+To make things simple, this project uses an embedded SQL database.
+
+18
+00:01:23,766 --> 00:01:29,599
+SQL Light is a Visual Studio extension that can be used to view and edit the embedded database. 
+
+19
+00:01:29,600 --> 00:01:35,700
+This extension can currently be downloaded and installed for free from the Visual Studio marketplace.
+
