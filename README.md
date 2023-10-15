@@ -22,6 +22,12 @@ The completed "Microsoft" version of this module is available on the `solution` 
 
 ### Images
 
+![Demo Welcome Page](/demo/images/demo1.jpg)
+![Demo Pizza List Page](/demo/images/demo2.jpg)
+![Demo Add Pizza](/demo/images/demo3.jpg)
+![Demo Delete Pizza](/demo/images/demo4.jpg)
+![Demo Piza Form Validation](/demo/images/demo5.jpg)
+
 ## Contributing
 
 N/A. Reference the original repo from where this was forked for your contributions.  
