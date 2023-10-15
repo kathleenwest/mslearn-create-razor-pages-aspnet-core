@@ -1,18 +1,26 @@
-# Create a web UI with ASP.NET Core
+# Create a Web UI with ASP.NET Core
 
 The main branch has my own complete solution and project for the Microsoft Learn [Create a web UI with ASP.NET Core](https://learn.microsoft.com/training/modules/create-razor-pages-aspnet-core/) Microsoft Training module. The main branch has additional code commentary and my style of coding (for example: I try not to use var) compared to the Microsoft solution branch. 
 
-## Prerequisites and Dependencies
+## Recommendations
 
-TBA
+To view and manage the embedded SQL database in Visual Studio 2022, it is recommended to download and install ["SQLite and SQL Server Compact Toolbox"](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox) from the Visual Studio Marketplace. This extension adds several features to help your embedded database development efforts: Scripting of tables and data, import from SQL Server and CSV files and much, much more.
 
 ## How to Run Locally
 
-dotnet watch run --project ContosoPizza
+`dotnet watch run --project ContosoPizza`
 
 ## Microsoft Completed Version
 
 The completed "Microsoft" version of this module is available on the `solution` branch of this repo.
+
+## Demo 
+
+### Video
+
+[![Watch the demo video](/demo/video/Title.jpg)](https://www.youtube.com/watch?v=XkXRssQnZEA "Demo of Contoso Pizza Web UI Project for Microsoft Learn course")
+
+### Images
 
 ## Contributing
 
